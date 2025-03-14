@@ -2,7 +2,7 @@
 
 A classic Snake Game implemented in Python using the Turtle graphics library. Control the snake, eat food to grow longer, and avoid hitting the walls and your own tail!
 
-![images](screenshot-1.png)
+![Snake Game Screenshot](images/screenshot-1.png)
 
 ## Features
 
